@@ -12,7 +12,9 @@ public class Calculator {
         System.out.println("Sub enter[2]");
         System.out.println("mul enter[3]");
         System.out.println("div enter[4]");
+
         int n = sc.nextInt();
+        
         switch (n) {
             case 1: System.out.println(a + b);
             break;
