@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class prime {
     public static boolean IsPrime(int num){
         if (num <= 1) {
             return false;
