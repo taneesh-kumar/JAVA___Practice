@@ -11,7 +11,7 @@ public class TowerOfHanoi {
     }
 
     public static void main(String[] args) {
-        int number = 2;
+        int number = 3;
         solveHanoi(number, 'A', 'B', 'C');
     }
 }
