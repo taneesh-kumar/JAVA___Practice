@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Linear2DSearch {
+public class linear2DSearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
